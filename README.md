@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://paulfolio-rho.vercel.app/"><img src="./cards/hero.svg" width="100%" alt="CMNDR PAUL. Freelance developer and creator. I build useful websites and bring ideas to life through design and video." /></a><br>
+<a href="https://paulfolio-rho.vercel.app/"><img src="./cards/hero.svg" width="100%" alt="John Paul Gonzaga. Freelance developer and creator. I build useful websites and bring ideas to life through design and video." /></a><br>
 <img src="./cards/heatmap.svg" width="100%" alt="My GitHub contributions in shades of purple, refreshed daily" /><br>
 <img src="./cards/activity.svg" width="100%" alt="My GitHub activity, streak and busiest day" /><br>
 <a href="https://github.com/cmndrpaul?tab=repositories"><img src="./cards/build.svg" width="33.333%" alt="BUILD: three featured projects" /></a><a href="https://paulfolio-rho.vercel.app/"><img src="./cards/brand.svg" width="33.333%" alt="CREATE: graphic design and video editing" /></a><a href="https://github.com/cmndrpaul"><img src="./cards/learn.svg" width="33.333%" alt="EXPLORE: learning by building" /></a><br>
